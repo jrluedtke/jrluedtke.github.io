@@ -1,0 +1,436 @@
+<html>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE>Home page of Jim Luedtke</TITLE>
+</HEAD>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<BODY LANG="en-US" DIR="LTR">
+<!--<IMG SRC="Jim-pic.jpg" NAME="graphics2" ALIGN=RIGHT HSPACE=35 WIDTH=352
+HEIGHT=325 BORDER=0><BR>-->
+<table>
+<tr>
+<td>
+<h1>James Luedtke</h1>
+Professor and Associate Chair for Graduate Studies<BR> 
+Department of Industrial and Systems Engineering<BR> 
+University of Wisconsin-Madison<BR> 
+Madison, WI 53706</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in; background: transparent">
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in">jim.luedtke <I>at</I> wisc <I>dot</I>
+edu</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in">
+</P>
+</td>
+<td>
+<img src="luedtke-photo.jpg" alt="" width=250 height=250>
+</td>
+</tr>
+</table>
+<HR>
+<h3>Education:</h3>
+<UL>
+	<LI>Ph.D., <A HREF="http://www.isye.gatech.edu/"> Industrial and Systems
+	Engineering</A>, Georgia Institute of Technology, 2007.	
+	<LI>M.S., Operations Research, Georgia Institute of Technology, 2004.
+	<LI>B.S., Industrial Engineering, <A HREF="http://www.wisc.edu/">University
+	of Wisconsin-Madison</A>, 2001.
+</UL>
+
+<HR>
+<h3>Research
+Interests:</h3>
+<UL>
+	<LI> Mixed-integer linear and nonlinear optimization
+	<LI>Stochastic optimization
+	<LI>Applications of optimization 
+</UL>
+<HR>
+<h3>Journal Papers:</h3>
+<OL reversed>
+<LI> A. Smith, J. Linderoth, and J. Luedtke, "Optimization-based dispatching policies for open pit
+mining," <I> Optimization and Engineering</I>, accepted (2021) <A HREF="http://www.optimization-online.org/DB_HTML/2020/02/7646.html">Preprint</A>.
+<LI> C.H. Lim, J. Linderoth, J. Luedtke, and S. Wright, "<A
+HREF="https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2019.0029">Parallelizing subgradient methods for the Lagrangian dual in
+stochastic mixed-integer programming</A>," <I>INFORMS Journal on Optimization</I>, 3:1-22 (2021). <A
+HREF="http://www.optimization-online.org/DB_HTML/2018/12/6963.html">Preprint</A>.
+<LI> A. Mahajan, S. Leyffer, J. Linderoth, J. Luedtke, and T. Munson, "<A
+HREF="https://doi.org/10.1007/s12532-020-00196-1">Minotaur: A Mixed-Integer Nonlinear Optimization Toolkit</A>," <I>Mathematical Programming Computation</I> (2020) <A
+HREF="http://www.optimization-online.org/DB_FILE/2017/10/6275.pdf">Preprint</A>.
+<LI> R. Kannan and J. Luedtke, A stochastic approximation method for chance-constrained nonlinear
+programs," <I>Mathematical Programming Computation</I>, to appear (2020). "<A HREF="http://www.optimization-online.org/DB_FILE/2018/12/6991.pdf">Preprint</A>.
+<LI> E. Towle and J. Luedtke Intersection disjunctions for reverse convex
+sets," <I>Mathematics of Operations Research</I>, to appear (2021). "<A HREF="https://arxiv.org/abs/1901.02112">Preprint</A>.
+<LI> A. Peña-Ordieres, J. Luedtke, and A. Waechter, "<A HREF="https://epubs.siam.org/doi/abs/10.1137/19M1261985">Solving chance-constrained problems via a smooth sample-based
+nonlinear approximation</A>," <I>SIAM Journal on Optimization</I>,30:2221-2250 (2020). <A
+HREF="https://arxiv.org/abs/1905.07377">Preprint</A>.
+<LI> A. Soni, J. Linderoth, J. Luedtke, and F. Rigterink, "<A HREF="https://rdcu.be/b5yvO">Mixed-integer linear programming for scheduling
+unconventional oil field development</A>," <I>Optimization and Engineering</I>, (2020). <A
+HREF="http://www.optimization-online.org/DB_HTML/2020/02/7604.html">Preprint</A>. 
+<LI> J. Luedtke, C. D'Ambrosio, J. Linderoth, and J. Schweiger, "<A HREF="https://doi.org/10.1137/18M1174374">Strong convex nonlinear relaxations of the pooling
+problem</A>," <I>SIAM Journal on Optimization</I>, 30:1582-1609, (2020). <A HREF="https://arxiv.org/abs/1803.02955">Preprint</A>.
+<LI> K. Zhang, L. Albert, J. Luedtke, and E. Towle, <A HREF="https://doi.org/10.1080/24725854.2019.1584832">"A budgeted maximum multiple coverage model for cybersecurity planning
+and management</A>," <I>IISE Transactions</I>, 51:1303-1317 (2019) <A HREF="zheng-etal-2019IISE-Transactions.pdf">Preprint</A>.
+<LI> H. Ye, J. Luedtke, and H. Shen, "<A HREF="https://rdcu.be/TpsK">Call Center Arrivals: When to Jointly Forecast Multiple Streams?</A>," <I>
+Production and Operations Management</I>, 28:27-42 (2019).
+<LI> M. Bodur and J. Luedtke, “<A HREF="https://rdcu.be/9pqe">Two-stage linear decision rules for multi-stage stochastic programming,"</A> Mathematical Programming (2018). <A
+HREF="https://arxiv.org/abs/1701.04102">Preprint</A>.
+<LI> E. Towle and J. Luedtke, "<A HREF="https://rdcu.be/YR6r">New solution approaches for the maximum-reliability stochastic network interdiction
+problem</A>," <I>Computational Management Science</I>, 15:455-477 (2018).  <A
+HREF="http://www.optimization-online.org/DB_HTML/2017/08/6166.html">Preprint</A>.
+<LI>	M. Hamzeei and J. Luedtke, "<A HREF="https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1479900">Service
+network design with equilibrium-driven demands</A>," <I>IISE Transactions</I>,
+50:959-969 (2018).
+<LI> M. Bodur and J. Luedtke, “<A HREF="bodur-luedtke-ip-min-def-networks-18.pdf">Integer
+programming formulations for minimum deficiency interval coloring"</A>, <I>Networks</I>, 72:249-271 (2018).
+<LI> A. Eberhard, N. Boland, J. Christiansen, B. Dandurand, J. Linderoth, J. Luedtke, and F. Oliveira, “<A HREF="boland-etal-siopt-2018.pdf">Combining
+progressive hedging with a Frank-Wolfe method to compute Lagrangian dual bounds in stochastic mixed-integer
+programming</A>,” <I> SIAM Journal on Optimization </I>, 28:1312-1336 (2018) .
+<LI> C.H. Lim, J. Linderoth, and J. Luedtke, “<A HREF="lim-linderoth-luedtke-Sep-Concave-MP17.pdf">Valid inequalities for separable concave constraints
+with indicator variables</A>,” <I>Mathematical Programming </I>, 172:415-442 (2018).  
+<LI> T. Dinh, R. Fukasawa, and J. Luedtke, “<A HREF="dinh-fukasawa-luedtke-MP17.pdf">Exact
+algorithms for the chance-constrained vehicle routing problem</A>,” <I>Mathematical Programming </I>, 172:105-138 (2018).
+<LI> M. Kilinc, J. Linderoth, and J. Luedtke, “<A HREF="http://rdcu.be/oMEh">Lift-and-Project Cuts for Convex Mixed Integer Nonlinear Programs
+Linear Programming Based Separation and Extended Formulations</A>,”  <I>Mathematical Programming Computation</I>,
+9:499-526 (2017). (<A HREF="http://www.optimization-online.org/DB_FILE/2010/11/2808.pdf">
+Preprint of earlier version</A>) 
+<LI> S. Ahmed, J. Luedtke, Y. Song, and W. Xie, “<A HREF="ahmed-etal-cc-duality-MP-2016.pdf">Nonanticipative duality, relaxations, 
+and formulations for chance-constrained stochastic
+programs</A>,” <I>Mathematical Programming</I>, 162:51-81 (2017). 
+<LI> M. Bodur, S. Dash, O. Günlük, and J. Luedtke, “<A HREF="bodur-etal-str-benders-ijoc-2017.pdf">Strengthened Benders cuts for
+stochastic integer programs with continuous recourse</A>,” <I>INFORMS Journal on
+Computing</I>, 29:77-91 (2017). 
+<LI> M. Bodur and J. Luedtke, “<A HREF="https://doi.org/10.1287/mnsc.2016.2455">Mixed-integer rounding enhanced benders
+decomposition for multiclass service system staffing and scheduling with arrival rate uncertainty</A>,” <I>Management
+Science</I>, 63:2073-2091 (2017). <A
+HREF="http://www.optimization-online.org/DB_HTML/2013/10/4080.html">Preprint</A>.
+<LI> B. Kocuk, H. Jeon, S.S. Dey, J. Linderoth, J. Luedtke, and X. Sun, "<A
+HREF="kocuk-etal-cycle-based-dc-power-OR-AiA-version-2016.pdf">A cycle-based formulation and valid
+inequalities for DC power transmission with switching</A>,” <I>Operations Research</I>, 64(4):922-938, (2016).  
+<LI> X. Liu, S. Küçükyavuz and J. Luedtke, “<A HREF="liu-etal-decomp-2stage-cc-mp-2016.pdf">Decomposition algorithms for two-stage
+chance-constrained programs</A>,” <I>Mathematical Programming</I>, 157:219-243 (2016).
+<LI> Y. Song and J. Luedtke, "<A HREF="song-luedtke-siopt-2015.pdf">An adaptive partition-based approach for solving
+two-stage stochastic programs with fixed recourse</A>," <I>SIAM Journal on Optimization</I>, 25:1344-1367 (2015). 
+<LI> M. Kilinc, J.T. Linderoth, J. Luedtke, A. Miller, “<A
+HREF="https://link.springer.com/article/10.1007%2Fs10589-014-9690-8">Strong branching
+inequalities for mixed integer nonlinear programs</A>," <I>Computational
+Optimization & Applications</I>, 59:639-665 (2014).
+<LI> S. Sridhar, J. Linderoth, and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007%2Fs10898-014-0167-1">Models and solution techniques
+for production planning problems with increasing byproducts</A>," <I> Journal of
+Global Optimization</I>, 59:597-631 (2014).
+<LI> M. Hamzeei and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007%2Fs10898-014-0172-4">Linearization-based algorithms for
+mixed-integer nonlinear programs with convex continuous relaxation</A>," <I> Journal
+of Global Optimization</I>, 59:343-365 (2014). 
+	<LI> Y. Song, S. Kucukyavuz, and J. Luedtke, "<A HREF="https://doi.org/10.1287/ijoc.2014.0595">Chance-constrained binary
+	packing problems</A>," <I>INFORMS Journal on Computing</I>, 
+	26:735-747 (2014).
+<LI> J. Luedtke, "<A HREF="luedtke-decomp-cc-mpa-vol146-2014.pdf">A branch-and-cut decomposition algorithm for solving
+	chance-constrained mathematical programs with finite support</A>," 
+	<I>Mathematical Programming</I>, 146:219-244 (2014).
+<LI> B. Armbruster and J. Luedtke, "<A HREF="http://dx.doi.org/10.1080/0740817X.2014.889336">Models and formulations for multivariate
+dominance constrained stochastic programs</A>," <I> IIE Transactions</I>, 47:1-14 (2014).
+<LI> S. Sridhar, J. Linderoth, and J. Luedtke, "<A HREF="sridharetal-orl13.pdf">"Locally ideal formulations for
+piecewise linear functions with indicator variables</A>," 
+<I>Operations Research Letters</I>, 41:627-632 (2013).
+<LI> Y. Song and J. Luedtke. “<A HREF="http://mpc.zib.de/index.php/MPC/article/view/121">Branch-and-cut approaches for
+chance-constrained formulations of reliable network design problems</A>,”
+	<I> Mathematical Programing Computation </I> 5:397-432 (2013).
+<LI> P. Belotti, C. Kirches, S. Leyffer, J. Linderoth, J. Luedtke, and A.
+Mahajan, "<A HREF="
+https://doi.org/10.1017/S0962492913000032">Mixed-integer nonlinear optimization</A>," <I>
+Acta Numerica</I>, 22:1-131 (2013).
+<LI> J. Luedtke, M. Namazifar, and J. Linderoth, “<A HREF="https://link.springer.com/article/10.1007/s10107-012-0606-z">Some results on the strength
+of relaxations of multilinear functions</A>,” <I>
+Mathematical Programming</I>, 136:325-351 (2012).
+<LI> I. Gurvich, J. Luedtke, and T. Tezcan, “<A HREF="http://pubsonline.informs.org/doi/abs/10.1287/mnsc.1100.1173">Staffing call-centers with
+uncertain demand forecasts: a chance-constrained optimization approach</A>,”
+<I> Management Science</I>, 56:1093-1115 (2010).
+	<LI>J.  Luedtke, S. Ahmed and G. Nemhauser, "<A HREF="https://link.springer.com/article/10.1007/s10107-008-0247-4">An integer programming approach
+	for linear programs with probabilistic constraints</A>,"  <I>Mathematical
+	Programming</I>, 122:247-272 (2010).
+	<LI>J.  Luedtke and G. Nemhauser, "<A HREF="https://doi.org/10.1287/opre.1080.0649">Strategic planning with start-time
+	dependent variable costs</A>,"  <I>Operations Research</I>, 57:1250-1262 (2009).
+<LI> J. Luedtke, "<A HREF="https://doi.org/10.1137/070707956">New formulations for optimization under stochastic
+	dominance constraints</A>,"  <I>SIAM Journal on Optimization</I>, 19:1433-1450
+	(2008).	
+	<LI> J. Luedtke and S. Ahmed, "<A HREF="https://doi.org/10.1137/070702928">A sample approximation approach for
+	optimization with probabilistic constraints</A>," <I>SIAM Journal on
+	Optimization</I>, 19:674-699 (2008).</A>
+	</OL>
+<HR>
+<h3>Refereed Conference Papers:</h3>
+<OL reversed>
+<LI> R. Kannan, J. Luedtke, and L. Roald, "Stochastic DC optimal power flow
+with reserve saturation", XXI Power Systems Control Conference (PSCC), Porto, Portugual (2020) <A HREF="https://arxiv.org/abs/1910.04667">Preprint</A>.
+<LI>	D. Coudert, J. Luedtke, E. Moreno, and K. Priftis, "Computing and maximizing the exact reliability of wireless
+backhaul networks," International Network Optimization Conference (INOC) 2017, Lisbon, Portugal (2017).
+<LI> T. Dinh, R. Fukasawa, and J. Luedtke, “Exact algorithms for the chance-constrained vehicle routing problem,” Integer Programming and
+Combinatorial Optimization (IPCO) 2016, Liege, Belgium (2016).
+<LI> C.H. Lim, J. Linderoth, and J. Luedtke, “Valid inequalities for separable concave constraints with indicator
+variables,” Integer Programming and
+Combinatorial Optimization (IPCO) 2016, Liege, Belgium (2016).
+<LI> C. D’Ambrosio, J. Linderoth, and J. Luedtke, “Valid inequalities for the
+pooling problem with binary variables,” 117-129, Integer Programming and
+Combinatorial Optimization (IPCO) 2011, New York, NY (2011).
+<LI> J. Luedtke, “An integer programming and decomposition approach to general
+chance-constrained mathematical programs,” Integer Programming and Combinatorial
+Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
+<LI> S. Leyffer, J. Linderoth, J. Luedtke, A. Miller and T. Munson,
+“Applications and algorithms for mixed integer nonlinear programming,” SciDAC
+2009, J. of Physics: Conference Series, San Diego, California (2009).
+<LI>J.  Luedtke, S. Ahmed and G. Nemhauser. "An integer programming approach
+	for linear programs with probabilistic constraints,"  
+	The Twelfth Conference for Integer Programming and
+	Combinatorial Optimization (IPCO 2007), Proceedings. <I>Lecture Notes in
+	Computer Science</I> 4513 (2007). 
+  <LI>J.  Luedtke and C.C. White, III. "The value of asset visibility in the
+	supply chain: single and dual source models," <I>2004 IEEE
+	Conference on Systems, Man and Cybernetics: Proceedings</I>,  5:4189-94
+	(2004).
+</OL>
+<HR>
+<h3>Submitted Papers and Technical Reports:</h3>
+<UL>
+<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2020/07/7932.html">Data-driven sample average approximation with covariate
+information</A>", 2020.
+<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2012.01088">Residuals-based distributionally robust optimization with
+covariate information</A>", 2020.
+<LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2001.00761">Lagrangian dual decision rules for multistage stochastic mixed integer
+programming</A>" (2020). 
+<LI> R. Chen and J. Luedtke, "<A HREF="https://arxiv.org/abs/1912.13078">On sample average approximation for two-stage stochastic programs without
+relatively complete recourse</A>" (2019). 
+<LI> J. Ramakrishnan and J. Luedtke, "<A HREF="https://arxiv.org/abs/1905.07377">A Dual Approximate Dynamic Programming
+Approach to Multi-stage Stochastic Unit Commitment</A>" (2018).
+<LI> A. Kogan, M. Lejeune, and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007/s10107-015-0960-8">Erratum to: Threshold Boolean form for joint probabilistic constraints with
+random technology matrix</A>," <I>Mathematical Programming</I>, 155:617-620 (2015).
+<LI> J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2015/01/4716.html">A Counterexample to `Threshold Boolean form for joint probabilistic constraints with random
+technology matrix’</A>,” (2014). 
+<LI> J. Luedtke, “Optimization with approximate stochastic dominance
+constraints: Models and formulations,"  Proceedings of the 2011 NSF
+Engineering Research and Innovation Conference, Atlanta, GA, January (2011). 
+<LI> J. Goez, J. Luedtke, D. Rajan, and J. Kalagnanam, "<A
+HREF="http://domino.research.ibm.com/library/CyberDig.nsf/papers/A83A70DC9573F7F48525753D00526CC8/$File/rc24713.pdf">Stochastic
+unit commitment problem</A>," IBM report RC24713 (W0812-119) (2008). 
+<LI> J. Luedtke and C.C. White, "<A
+HREF="https://pdfs.semanticscholar.org/7a30/97ccdcb133e669f41b643a733e831e5ae013.pdf">Hazmat transportation and
+security: survey and directions for future research</A>,"
+Department of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, GA (2002)
+</UL>
+<HR>
+<h3>Other Publications:</h3>
+<UL>
+	<LI> J. Luedtke. "Integer Programming Approaches for Some Non-convex and
+	Stochastic Optimization Problems," <A
+	HREF="http://smartech.gatech.edu/handle/1853/19711">Ph.D. Dissertation,</A>
+	2007.
+</UL>
+<HR>
+<h3>Slides:</h3>
+<UL>
+	<LI> <A HREF="stochopt.pdf">"Introduction to Stochastic Optimization"</A>, January 2018.
+</UL>
+<HR>
+<h3>Researh Group:</h3>
+
+Current postdocs
+<UL>
+<LI> <A HREF="https://wid.wisc.edu/people/rohit-kannan/">Rohit Kannan</A>
+</UL>
+
+Current PhD students
+<UL>
+<LI> <A HREF="https://wid.wisc.edu/people/rui-chen/">Rui Chen</A>
+<LI> Akhilesh Soni (co-advised with Jeff Linderoth)
+<LI> Ramsey Rossmann
+<LI> Ashley Peper (co-advised with Laura Albert)
+</UL>
+
+Former postdocs
+<UL>
+<LI> <A HREF="https://limconghan.github.io">Conghan Lim</A>. Current position: AI Resident, Uber ATG
+</UL>
+
+
+Former PhD students (primary advisor)
+<UL>
+<LI> <A HREF="https://wid.wisc.edu/people/eli-towle/">Eli Towle</A>, PhD 2019. Current position: Optimization Support
+Engineer, Gurobi Optimization.
+<LI> <A HREF="https://directory.engr.wisc.edu/ie/Faculty/Smith_Amanda/">Amanda Smith</A>, PhD 2018. Current position: Associate Chair
+for Undergraduate Affairs, Department of Industrial and Systems Engineering, University of Wisconsin-Madison.
+<LI> <A HREF="https://www.linkedin.com/in/thaindinh/">Thai Dinh</A>, MS 2016. Current position: Director of Data Science, 
+Visa, Inc.
+<LI> <A HREF="https://sites.google.com/site/mervebodr/">Merve Bodur</A>, PhD 2015. Current position: Assistant
+Professor, Department of Mechanical and Industrial Engineering, University of Toronto.
+<LI> Mahdi Hamzeei, PhD 2014. Current position: Senior Data Scientest, Precima.
+<LI> <A HREF="https://sites.google.com/site/yongjiasongshom/">Yongjia Song</A>, PhD 2013. Current position: Assistant
+Professor, Department of Industrial Engineering, Clemson University.
+</UL>
+Former PhD students (co-advisor)
+<UL>
+<LI> <A HREF="http://www.namazifar.com">Mahdi Namazifar</A>, PhD 2013 (co-advised with Jeff Linderoth). Current
+position: Senior Data Scientist, Twitter Cortex and CUAD.  
+<LI> <A HREF="http://srikris.github.io">Srikrishna Sridhar</A>, PhD 2014 (co-advised with Jeff Linderoth and Stephen Wright). Current position: Engineering
+Manager, Apple. 
+</UL>
+<HR>
+
+<h3>Current Research Projects:</h3>
+<UL>
+<LI> "MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems",
+UW-Madison Principal Investigator, Department of Energy Office of Science, Advance Scientific Computing Research
+program. Subcontract through Argonne National Laboratory. With co-PI's M. Ferris, J. Linderoth, L. Roald, S. Wright,
+V. Zavala. 9/2017 - 8/2018, $600,000 per year (UW-Madison amount).
+<LI> "SaTC: CORE: Medium: An Optimization Framework for Identifying Dynamic Risk Management Practices", National Science
+Foundation (DMS - Secure & Trustworthy Cyberspace), co-PI, with L. Albert (PI),  10/1/2020 - 9/30/2024, $1,200,000. 
+<LI> "Integer Programming for Mixture Matrix Completion", co-PI, American Family Data Science Institute, with J. Linderoth (PI) and D. Pimentel-Alcaron,
+ 9/1/2020 - 8/31/2022, \$149,999.
+</UL>
+<HR>
+<h3>Completed Research Projects:</h3>
+<UL>
+<LI>	“Scalable Methods for Solving Stochastic Mixed-Integer Programs”, National Science Foundation, Principal
+Investigator, with co-PI’s J. Linderoth and S. Wright, 9/1/2016 – 8/31/2020, $399,563.
+<LI> “Large-scale Stochastic Mixed-Integer Nonlinear Programming," ExxonMobil Upstream Research Corporation, co-Principal Investigator with J. Linderoth (PI) and S. Wright (co-PI). 12/2010 – 12/2019.  
+<LI>	“SBE: Small: An Optimization Framework for Prioritizing Cyber-security Mitigations for Securing Information
+Technology Infrastructure,” National Science Foundation, (SES-Division of Social and Economic Sciences), co-PI with L.
+Albert (PI), 8/2014 – 7/2019, $447,828. 
+<LI> “Multifaceted Mathematics Center for Complex Energy Systems" Department of Energy Office of Science, Advance Scientific Computing Research program. Subcontract through Argonne National Laboratory. With M. Ferris (PI), and co-PI's C. Demarco, B. Lesieutre, J. Linderoth, S. Wright. 9/2012 - 8/2017, $750,000 per year.<LI>	“Strengthened Benders Cuts for Stochastic Integer Programs with Continuous Recourse”, Office of Naval Research, Principal Investigator, 5/1/2015 – 4/30/2017, $90,002.
+<LI>	“Collaborative Research: Staffing and Routing in Service Systems with Uncertain Arrival Rates: An Integrated Stochastic Programming and Asymptotic Analysis Approach," Principal Investigator in collaboration with T. Tezcan (Simon School of Business, University of Rochester), National Science Foundation (CMMI-SES), 10/2011 - 9/2014, $206,141 (UW portion).
+<LI> “CAREER: Risk Management via Stochastic Programming: Models, Computation, and Applications," National Science Foundation (CMMI-OR), Principal Investigator, 2/2010 - 1/2015, $400,000.
+<LI> “MINOTAUR: A New Toolkit for Solving Mixed-Integer and Nonlinear Optimization Problems,” Department of Energy (funded via Argonne National Lab subcontract), co-Principal Investigator with J. Linderoth (PI), 10/2011 - 9/2013, $175,878.
+<LI>	“A Stochastic and Integer Programming Approach to Service Systems Scheduling Under Arrival Rate Uncertainty," University of Wisconsin-Madison Graduate School Research Committee, Principal Investigator, 9/2011 – 8/2012, $34,382.
+<LI> “Collaborative Research: Next-Generation Solvers for Mixed-Integer Nonlinear Programs: Structure, Search and
+Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investigator with J. Linderoth (PI), $528,476,
+8/08 - 8/12. 
+<LI>“Collaborative Research: Next-Generation Solvers for Mixed-Integer Nonlinear Programs: Structure, Search and Implementation,'' National Science Foundation (CCF-0830153), co-Principal Investigator with J. Linderoth (PI), $199,997, 1/09 - 1/13.
+<LI> “Warehouse Management for Hy-Vee Flow Through System,” Hy-Vee, Inc., co-Principal Investigator with R. Veeramani (PI), 5/2008 – 4/2009, $84,948.
+</UL>
+<HR>
+<h3>Professional Service:</h3>
+<UL>
+<LI> Mathematical Optimization Society Council: 2018 - present.
+<LI> Guest editor, Mathematical Programming, Series B, 2020 - present.
+<LI> SIAM Activity Group on Optimization, Secretary: 2017 - 2019. 
+<LI>INFORMS Nicholson Paper Prize Committee, 2013 - 2014, 2017.
+<LI> Mathematical Optimization Society Publications Committee: 2016 - present. Chair, 2019 - present.
+<LI> INFORMS Optimization Society Student Paper Prize Committee Chair: 2016.
+<LI> Committee on Stochastic Programming (elected board of Stochastic Programming Society): 2013 - 2019.
+<LI>	Secretary/Treasurer of INFORMS Optimization Society: 2011 – 2015.
+<LI> Associate editor, SIAM Journal on Optimization, 2016 – present.
+<LI> Associate editor, Mathematical Programming Computation, 2016 – present.
+<LI> Associate editor, INFORMS Journal on Computing, 2014 – 2018.
+<LI> Associate editor, Optimization Letters, 2013 – 2016.
+<LI> Associate editor, Journal of Optimization Theory and Applications, 2011 - 2016.
+<LI> Associate editor, IIE Transactions, 2011 – 2013.
+<LI> Referee for: Mathematical Programming, Operations Research, Management Science, SIAM Review, Mathematics of
+Operations Research, Manufacturing &
+Service Operations Management, European Journal of Operational Research, Operations Research Letters, IIE Transactions,
+INFORMS Journal on Computing, SIAM Journal on Optimization, Annals of Operations Research, Journal of Global
+Optimization, Optimization Methods & Software, Mathematical Programming Computation, Optimization Letters, Computers and
+Operations Research, Transportation Science, Journal of Optimization Theory and Applications, Engineering and
+Optimization.
+<LI> Scientific Committee Member, <A HREF="https://www.ntnu.edu/web/icsp/icsp2019">International Conference on
+Stochastic Programming 2019</A>, Trondheim, Norway,  2019.
+<LI> Program Committee Member, <A HREF="http://umich.edu/~ipco2019conf/">Integer Programming and Combinatorial
+Optimization 2019</A>, University of Michigan, 2019.
+<LI> Scientific Committee Member, <A HREF="https://ismp2018.sciencesconf.org">23rd International Symposium on
+Mathematical Programming</A>, Trondheim, Norway,  2019.
+<LI> Program Committee Member, <A HREF="http://www.stoprog.org/icsp2016">International Conference on Stochastic Programming
+2016</A>, Busios Brazil, August 2016.
+<LI> Integer Programming Track Co-Chair (with Simge  Küçükyavuz), <A
+HREF="https://sites.google.com/site/2015icsconference/">2015 INFORMS Computing Society Conference</A>, Richmond, VA,
+January 2015.
+<LI> Program Committee Chair, <A HREF="http://events.discovery.wisc.edu/mip2013">2013 Workshop on Mixed-Integer
+Programming</A>, University of Wisconsin-Madison, July 2013.
+<LI> Program Committee Member, <A HREF="http://www.math.ucdavis.edu/mip2012"> 2012 Workshop on Mixed-Integer
+Programming</A>, University of California Davis, July 2012.
+</UL>
+<HR>
+<h3>Data and online supplements:</h3>
+<UL>
+   <LI> Data for "A branch-and-cut decomposition algorithm for solving
+	chance-constrained mathematical programs with finite support," 
+	<I>Mathematical Programming</I>, 146:219-244, (2014): <A HREF="MPA-V146-pp219-244-RHSdata.zip">Instances with right-hand side
+	randomness.</A> <A HREF="MPA-V146-pp219-244-LHSdata.zip">Instances with random constraints.</A> 
+	<LI> Data for right-hand side randomness instancs in "A branch-and-cut decomposition algorithm for solving
+	chance-constrained mathematical programs with finite support," 
+	<I>Mathematical Programming</I>, 146:219-244, (2014): <A HREF="MPA-V146-pp219-244-RHSdata.zip">Download here.</A>
+<LI> Data for paper "An integer programming approach
+	for linear programs with probabilistic constraints," by Luedtke, Ahmed and
+	Nemhauser, <I>Mathematical Programming</I>, 122:247-272 (2010): <A HREF="lan-mp-instances.zip">Download here.</A>  
+  <LI> Online supplement for "A branch-and-cut decomposition algorithm for solving
+	chance-constrained mathematical programs with finite support," 
+	<I>Mathematical Programming</I>, 146:219-244, (2014): <A HREF="decomp-cc-companion.pdf">Download here.</A>  
+</UL>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+</BODY>
+
+
+<!--
+<p>
+<b>Edit your web site from Windows:</b><br>
+ You can edit your web pages from a Windows systems. Once you have run 
+ the <code>homepage</code> UNIX script, you can edit and save files to your 
+ web site from a Windows system. <a href="/help/accounts/samba.shtml">Map a 
+ network drive</a>, using SAMBA, to your UNIX disk space and edit this web 
+ page, <code>index.shtml</code> or any of your UNIX files. All your web pages 
+ can be found in your <code>public_html</code> folder. Permissions on files
+ created this way will by default be readable on the internet.
+</p>
+<p>
+<b>Limit access to your web site:</b><br>
+ CAE has two quick ways for you to limit access to areas of your web site.
+ All files and folders inside a folder with the name of <code>cae-auth</code> 
+ require a CAE username and password to access. If you name the folder 
+ <code>uw-only</code> then access is available to only those viewing your 
+ site from computers on the UW-Madison campus, including the dial-up lines. 
+ To create your own personalized access restrictions read the page on <a href="/accounts/htaccess.shtml">Restricting Access to Your Web Pages</a>.
+</p>
+
+<p>
+<b>Related Links:</b><ul>
+ <li> Answers to <a href="http://www.cae.wisc.edu/faq/web.shtml">Freqently Ask Questions (FAQ) about the Web</a>, (personal CGI scripts, counters, etc.). 
+ <li> Create your own custom search web form with the 
+ <a href="http://www.cae.wisc.edu/htdig/make_search_button.shtml">CAE Custom Search Button Generator</a>.
+ <li> Information on how to <a href="/help/accounts/wwwpage.shtml">create your own personal homepage</a> (like this one) on the CAE network.
+</p>
+<p>
+ <li> NCSA's <a href="http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html">A Beginners Guide to HTML</a>
+ <li> W3C's <a href=http://www.w3.org/MarkUp/>HyperText Markup Language</a> page
+</p>
+
+<p>
+ <li> All <a href="/help/accounts/users/users_list.shtml">personal homepages</a> for students, faculty, and staff on the CAE network.
+ <li> <a href="http://www.engr.wisc.edu/courses">Courses Homepage</a> for The College of Engineering 
+</p>
+</ul>
+-->
+
+<!-- My actual content here -->
+
+
+
+
+<!-- Begin of Page Footer -->
+<center>
+<table width="95%" cellpadding="0" cellspacing="0">
+<tr>
+ <td align=right><a href="http://www.cae.wisc.edu/">
+          <img src="/icons/forward.gif" border=0><b>CAE Homepage</b></a>
+ </td>
+</tr>
+<tr><td colspan="2"><hr width="100%"></td></tr>
+<tr>
+ <td align=left>
+  This page was last modified on <!--#echo var="LAST_MODIFIED"--><br>
+  The URL for this page is <code><!--#echo var="HTTP_HOST"--><!--#echo var="DOCUMENT_URI"--></code>
+ </td>
+ </tr>
+</table>
+</center>
+<!-- End of Page Footer -->
+
+</body>
+</html>
