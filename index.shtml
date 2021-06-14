@@ -417,18 +417,6 @@ Programming</A>, University of California Davis, July 2012.
 
 
 <!-- Begin of Page Footer -->
-<center>
-<table width="95%" cellpadding="0" cellspacing="0">
-<tr><td colspan="2"><hr width="100%"></td></tr>
-<tr>
- <td align=left>
-  This page was last modified on <!--#echo var="LAST_MODIFIED"--><br>
-  The URL for this page is <code><!--#echo var="HTTP_HOST"--><!--#echo var="DOCUMENT_URI"--></code>
- </td>
- </tr>
-</table>
-</center>
-<!-- End of Page Footer -->
 
 </body>
 </html>
