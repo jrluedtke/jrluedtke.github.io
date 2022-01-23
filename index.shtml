@@ -49,8 +49,11 @@ Interests:</h3>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
+<LI> R. Chen and J. Luedtke, "<A HREF="https://rdcu.be/cE1Nd">On sample average approximation for two-stage stochastic programs without
+relatively complete recourse</A>", <I> Mathematical Programming</I>, Articles in Advance, (2022). <A
+HREF="https://arxiv.org/abs/1912.13078">Preprint</A>.
 <LI> A. Smith, J. Linderoth, and J. Luedtke, "Optimization-based dispatching policies for open pit
-mining," <I> Optimization and Engineering</I>, accepted (2021) <A HREF="http://www.optimization-online.org/DB_HTML/2020/02/7646.html">Preprint</A>.
+mining," <I> Optimization and Engineering</I>, 22:1347-1387, (2021) <A HREF="http://www.optimization-online.org/DB_HTML/2020/02/7646.html">Preprint</A>.
 <LI> C.H. Lim, J. Linderoth, J. Luedtke, and S. Wright, "<A
 HREF="https://pubsonline.informs.org/doi/abs/10.1287/ijoo.2019.0029">Parallelizing subgradient methods for the Lagrangian dual in
 stochastic mixed-integer programming</A>," <I>INFORMS Journal on Optimization</I>, 3:1-22 (2021). <A
@@ -161,6 +164,8 @@ uncertain demand forecasts: a chance-constrained optimization approach</A>,”
 <HR>
 <h3>Refereed Conference Papers:</h3>
 <OL reversed>
+<LI> A. Soni, J. Linderoth, J. Luedtke, and D. Pimentel-Alarc\'{o}n, "Integer programming approaches to subspace
+clustering with missing data", <I>OPT2021: Optimization for Machine Learning</I>, Spotlight talk, 2021.
 <LI> R. Kannan, J. Luedtke, and L. Roald, "Stochastic DC optimal power flow
 with reserve saturation", XXI Power Systems Control Conference (PSCC), Porto, Portugual (2020) <A HREF="https://arxiv.org/abs/1910.04667">Preprint</A>.
 <LI>	D. Coudert, J. Luedtke, E. Moreno, and K. Priftis, "Computing and maximizing the exact reliability of wireless
@@ -192,20 +197,16 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <HR>
 <h3>Submitted Papers and Technical Reports:</h3>
 <UL>
-<LI> A. Soni, J. Linderoth, J. Luedtke, and D. Pimentel-Alarcon, "High-rank matrix completion by integer
-programming", 2021.
 <LI> R. Chen and J. Luedtke, "<A HREF="https://arxiv.org/pdf/2106.04023">On generating Lagrangian Cuts for two-stage
 stochastic integer programs</A>", 2021.
-<LI> Z. Zhang, C. Gao, and J. Luedtke, "New valid inequalities and formulation for the static
-chance-constrained lot-sizing problme", 2021. 
+<LI> Z. Zhang, C. Gao, and J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2021/06/8457.html">New valid inequalities and formulation for the static
+chance-constrained lot-sizing problem</A>", 2021. 
 <LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2020/07/7932.html">Data-driven sample average approximation with covariate
 information</A>", 2020.
 <LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2012.01088">Residuals-based distributionally robust optimization with
 covariate information</A>", 2020.
 <LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2001.00761">Lagrangian dual decision rules for multistage stochastic mixed integer
 programming</A>" (2020). 
-<LI> R. Chen and J. Luedtke, "<A HREF="https://arxiv.org/abs/1912.13078">On sample average approximation for two-stage stochastic programs without
-relatively complete recourse</A>" (2019). 
 <LI> J. Ramakrishnan and J. Luedtke, "<A HREF="https://arxiv.org/abs/1905.07377">A Dual Approximate Dynamic Programming
 Approach to Multi-stage Stochastic Unit Commitment</A>" (2018).
 <LI> A. Kogan, M. Lejeune, and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007/s10107-015-0960-8">Erratum to: Threshold Boolean form for joint probabilistic constraints with
