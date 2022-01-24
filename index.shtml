@@ -62,10 +62,10 @@ HREF="http://www.optimization-online.org/DB_HTML/2018/12/6963.html">Preprint</A>
 <LI> A. Mahajan, S. Leyffer, J. Linderoth, J. Luedtke, and T. Munson, "<A
 HREF="https://doi.org/10.1007/s12532-020-00196-1">Minotaur: A Mixed-Integer Nonlinear Optimization Toolkit</A>," <I>Mathematical Programming Computation</I> (2020) <A
 HREF="http://www.optimization-online.org/DB_FILE/2017/10/6275.pdf">Preprint</A>.
-<LI> R. Kannan and J. Luedtke, A stochastic approximation method for chance-constrained nonlinear
-programs," <I>Mathematical Programming Computation</I>, to appear (2020). <A HREF="http://www.optimization-online.org/DB_FILE/2018/12/6991.pdf">Preprint</A>.
-<LI> E. Towle and J. Luedtke Intersection disjunctions for reverse convex
-sets," <I>Mathematics of Operations Research</I>, to appear (2021). "<A HREF="https://arxiv.org/abs/1901.02112">Preprint</A>.
+<LI> R. Kannan and J. Luedtke, <A HREF="https://rdcu.be/cFDbT">A stochastic approximation method for chance-constrained nonlinear
+programs</A>," <I>Mathematical Programming Computation</I>, 13:705-751, (2021). <A HREF="http://www.optimization-online.org/DB_FILE/2018/12/6991.pdf">Preprint</A>.
+<LI> E. Towle and J. Luedtke, Intersection disjunctions for reverse convex
+sets," <I>Mathematics of Operations Research</I>, to appear (2021). <A HREF="https://arxiv.org/abs/1901.02112">Preprint</A>.
 <LI> A. Peña-Ordieres, J. Luedtke, and A. Waechter, "<A HREF="https://epubs.siam.org/doi/abs/10.1137/19M1261985">Solving chance-constrained problems via a smooth sample-based
 nonlinear approximation</A>," <I>SIAM Journal on Optimization</I>,30:2221-2250 (2020). <A
 HREF="https://arxiv.org/abs/1905.07377">Preprint</A>.
@@ -78,7 +78,8 @@ problem</A>," <I>SIAM Journal on Optimization</I>, 30:1582-1609, (2020). <A HREF
 and management</A>," <I>IISE Transactions</I>, 51:1303-1317 (2019) <A HREF="papers/zheng-etal-2019IISE-Transactions.pdf">Preprint</A>.
 <LI> H. Ye, J. Luedtke, and H. Shen, "<A HREF="https://rdcu.be/TpsK">Call Center Arrivals: When to Jointly Forecast Multiple Streams?</A>," <I>
 Production and Operations Management</I>, 28:27-42 (2019).
-<LI> M. Bodur and J. Luedtke, “<A HREF="https://rdcu.be/9pqe">Two-stage linear decision rules for multi-stage stochastic programming,"</A> Mathematical Programming (2018). <A
+<LI> M. Bodur and J. Luedtke, “<A HREF="https://rdcu.be/9pqe">Two-stage linear decision rules for multi-stage stochastic
+programming,"</A> <I>Mathematical Programming</I> (2018). <A
 HREF="https://arxiv.org/abs/1701.04102">Preprint</A>.
 <LI> E. Towle and J. Luedtke, "<A HREF="https://rdcu.be/YR6r">New solution approaches for the maximum-reliability stochastic network interdiction
 problem</A>," <I>Computational Management Science</I>, 15:455-477 (2018).  <A
@@ -165,12 +166,12 @@ uncertain demand forecasts: a chance-constrained optimization approach</A>,”
 <HR>
 <h3>Refereed Conference Papers:</h3>
 <OL reversed>
-<LI> A. Soni, J. Linderoth, J. Luedtke, and D. Pimentel-Alarcon, "Integer programming approaches to subspace
-clustering with missing data", <I>OPT2021: Optimization for Machine Learning</I>, Spotlight talk, 2021.
+<LI> A. Soni, J. Linderoth, J. Luedtke, and D. Pimentel-Alarcon, "<A HREF="https://opt-ml.org/papers/2021/paper9.pdf">Integer programming approaches to subspace
+clustering with missing data</A>", <I>OPT2021: Optimization for Machine Learning</I>, Spotlight talk, 2021.
 <LI> R. Kannan, J. Luedtke, and L. Roald, "Stochastic DC optimal power flow
 with reserve saturation", XXI Power Systems Control Conference (PSCC), Porto, Portugual (2020) <A HREF="https://arxiv.org/abs/1910.04667">Preprint</A>.
-<LI>	D. Coudert, J. Luedtke, E. Moreno, and K. Priftis, "Computing and maximizing the exact reliability of wireless
-backhaul networks," International Network Optimization Conference (INOC) 2017, Lisbon, Portugal (2017).
+<LI>	D. Coudert, J. Luedtke, E. Moreno, and K. Priftis, "<A HREF="https://hal.inria.fr/hal-01593041/document">Computing and maximizing the exact reliability of wireless
+backhaul networks</A>," International Network Optimization Conference (INOC) 2017, Lisbon, Portugal (2017).
 <LI> T. Dinh, R. Fukasawa, and J. Luedtke, “Exact algorithms for the chance-constrained vehicle routing problem,” Integer Programming and
 Combinatorial Optimization (IPCO) 2016, Liege, Belgium (2016).
 <LI> C.H. Lim, J. Linderoth, and J. Luedtke, “Valid inequalities for separable concave constraints with indicator
@@ -261,7 +262,7 @@ Former PhD students (primary advisor)
 <UL>
 <LI> <A HREF="https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en">Rui Chen</A>, PhD 2021. Current position:
 Postdoc, Cornell Tech.
-<LI> <A HREF="https:www.etowle.com">Eli Towle</A>, PhD 2019. Current position: Optimization Support
+<LI> <A HREF="https://www.etowle.com">Eli Towle</A>, PhD 2019. Current position: Optimization Support
 Engineer, Gurobi Optimization.
 <LI> <A HREF="https://directory.engr.wisc.edu/ie/Faculty/Smith_Amanda/">Amanda Smith</A>, PhD 2018. Current position: Associate Chair
 for Undergraduate Affairs, Department of Industrial and Systems Engineering, University of Wisconsin-Madison.
