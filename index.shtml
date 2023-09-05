@@ -50,12 +50,13 @@ Interests:</h3>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
-<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2012.01088">Residuals-based distributionally robust optimization with
-covariate information</A>", <I> Mathematical Programming</I>, accepted, 2023.
+<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "Residuals-based distributionally robust optimization with
+covariate information", <I> Mathematical Programming</I>, accepted, 2023. <A
+HREF="https://arxiv.org/abs/2012.01088"> Preprint</A>.
 <LI> R. Chen and J. Luedtke, "Sparse multi-term disjunctive cuts for the epigraph of a function of binary
-variables", <I> Mathematical Programming</I>, accepted, 2023.
-<LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2001.00761">Lagrangian dual decision rules for multistage stochastic mixed integer
-programming</A>", <I> Operations Research</I>, Articles in Advance, (2022). 
+variables", <I> Mathematical Programming</I>, accepted, 2023. <A HREF="https://arxiv.org/abs/2111.07855">Preprint</A>.
+<LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2366?journalCode=opre">Lagrangian dual decision rules for multistage stochastic mixed integer programming</A>", <I> Operations Research</I>, Articles in Advance, (2022). <A
+HREF="https://arxiv.org/abs/2001.00761">Preprint</A>.
 <LI> Z. Zhang, C. Gao, and J. Luedtke, "<A HREF="https://rdcu.be/cP7Mh">New valid inequalities and formulation for the static
 chance-constrained lot-sizing problem</A>", <I> Mathematical Programming</I>, Online First (2022). 
 <LI> R. Chen and J. Luedtke, "<A HREF="https://doi.org/10.1287/ijoc.2022.1185">On generating Lagrangian Cuts for two-stage
@@ -212,8 +213,8 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <HR>
 <h3>Submitted Papers and Technical Reports:</h3>
 <UL>
-<LI>  N. Sereshti, M. Bodur, and J. Luedtke, "Stochastic dynamic lot-sizing with supplier-driven
-substitution and service level constraints", 2022.
+<LI>  N. Sereshti, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2301.00258">Stochastic dynamic lot-sizing with supplier-driven
+substitution and service level constraints</A>", 2022.
 <LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2020/07/7932.html">Data-driven sample average approximation with covariate
 information</A>", 2020.
 <LI> J. Ramakrishnan and J. Luedtke, "<A HREF="https://arxiv.org/abs/1905.07377">A Dual Approximate Dynamic Programming
@@ -333,10 +334,14 @@ Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investi
 <LI> Mathematical Optimization Society Council: 2018 - 2022.
 <LI> Guest editor, Mathematical Programming, Series B, 2020 - 2022.
 <LI> SIAM Activity Group on Optimization, Secretary: 2017 - 2019. 
-<LI>INFORMS Nicholson Paper Prize Committee, 2013 - 2014, 2017.
+<LI> INFORMS Nicholson Paper Prize Committee: 2013 - 2014, 2017.
 <LI> INFORMS Optimization Society Student Paper Prize Committee Chair: 2016.
+<LI> INFORMS Junior Faculty Interest Group Best Paper Prize Committee: 2016, 2018, 2020, 2023.
+<LI> INFORMS Computing Society Prize Committee: 2023.
+<LI> INFORMS Optimization Society Balas Prize Committee: 2023.
 <LI> Committee on Stochastic Programming (elected board of Stochastic Programming Society): 2013 - 2019.
-<LI>	Secretary/Treasurer of INFORMS Optimization Society: 2011 – 2015.
+<LI> Secretary/Treasurer of INFORMS Optimization Society: 2011 – 2015.
+<LI> Vice chair for optimization under uncertainty, INFORMS Optimization Society: 2022-2023.
 <LI> Associate editor, Mathematical Programming Computation, 2016 – present.
 <LI> Associate editor, SIAM Journal on Optimization, 2016 – 2022.
 <LI> Associate editor, INFORMS Journal on Computing, 2014 – 2018.
@@ -350,6 +355,8 @@ INFORMS Journal on Computing, SIAM Journal on Optimization, Annals of Operations
 Optimization, Optimization Methods & Software, Mathematical Programming Computation, Optimization Letters, Computers and
 Operations Research, Transportation Science, Journal of Optimization Theory and Applications, Engineering and
 Optimization.
+<LI> Local Organizing Committee, <A HREF="https://optimization.discovery.wisc.edu/ipco-2023-madison/">Integer Programming and Combinatorial Optimization 2023</A>, University of
+Wisconsin-Madison, 2023.
 <LI> Scientific Committee Member, <A HREF="https://www.ntnu.edu/web/icsp/icsp2019">International Conference on
 Stochastic Programming 2019</A>, Trondheim, Norway,  2019.
 <LI> Program Committee Member, <A HREF="http://umich.edu/~ipco2019conf/">Integer Programming and Combinatorial
