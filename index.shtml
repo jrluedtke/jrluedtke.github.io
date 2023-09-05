@@ -12,7 +12,7 @@ HEIGHT=325 BORDER=0><BR>-->
 <tr>
 <td>
 <h1>Jim Luedtke</h1>
-Professor and Associate Chair for Graduate Affairs<BR> 
+Professor<BR> 
 Department of Industrial and Systems Engineering<BR> 
 Discovery Fellow, Wisconsin Institute for Discovery<BR>
 University of Wisconsin-Madison<BR> 
@@ -50,6 +50,12 @@ Interests:</h3>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
+<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2012.01088">Residuals-based distributionally robust optimization with
+covariate information</A>", <I> Mathematical Programming</I>, accepted, 2023.
+<LI> R. Chen and J. Luedtke, "Sparse multi-term disjunctive cuts for the epigraph of a function of binary
+variables", <I> Mathematical Programming</I>, accepted, 2023.
+<LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2001.00761">Lagrangian dual decision rules for multistage stochastic mixed integer
+programming</A>", <I> Operations Research</I>, Articles in Advance, (2022). 
 <LI> Z. Zhang, C. Gao, and J. Luedtke, "<A HREF="https://rdcu.be/cP7Mh">New valid inequalities and formulation for the static
 chance-constrained lot-sizing problem</A>", <I> Mathematical Programming</I>, Online First (2022). 
 <LI> R. Chen and J. Luedtke, "<A HREF="https://doi.org/10.1287/ijoc.2022.1185">On generating Lagrangian Cuts for two-stage
@@ -206,12 +212,10 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <HR>
 <h3>Submitted Papers and Technical Reports:</h3>
 <UL>
+<LI>  N. Sereshti, M. Bodur, and J. Luedtke, "Stochastic dynamic lot-sizing with supplier-driven
+substitution and service level constraints", 2022.
 <LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="http://www.optimization-online.org/DB_HTML/2020/07/7932.html">Data-driven sample average approximation with covariate
 information</A>", 2020.
-<LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2012.01088">Residuals-based distributionally robust optimization with
-covariate information</A>", 2020.
-<LI> M. Daryalal, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2001.00761">Lagrangian dual decision rules for multistage stochastic mixed integer
-programming</A>" (2020). 
 <LI> J. Ramakrishnan and J. Luedtke, "<A HREF="https://arxiv.org/abs/1905.07377">A Dual Approximate Dynamic Programming
 Approach to Multi-stage Stochastic Unit Commitment</A>" (2018).
 <LI> A. Kogan, M. Lejeune, and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007/s10107-015-0960-8">Erratum to: Threshold Boolean form for joint probabilistic constraints with
@@ -248,21 +252,23 @@ Department of Industrial and Systems Engineering, Georgia Institute of Technolog
 
 Current PhD students
 <UL>
-<LI> <A HREF="https://wid.wisc.edu/people/akhilesh-soni/">Akhilesh Soni</A> (co-advised with Jeff Linderoth)
-<LI> Ramsey Rossmann
-<LI> Ashley Peper (co-advised with Laura Albert)
+<LI> Woojin Kim
 <LI> Harshit Kothari
+<LI> Ashley Peper (co-advised with Laura Albert)
+<LI> Ramsey Rossmann
 </UL>
 
 Former postdocs
 <UL>
-<LI> <A HREF="https://rohitkannan.github.io/">Rohit Kannan</A>. Current position: CNLS Postdoc, Los Alamos National Lab
+<LI> <A HREF="https://rohitkannan.github.io/">Rohit Kannan</A>. Current position: Assistant Professor, Virginia Tech 
 <LI> <A HREF="https://limconghan.github.io">Conghan Lim</A>. Current position: AI Resident, Uber ATG
 </UL>
 
 
 Former PhD students (primary advisor)
 <UL>
+<LI> <A HREF="https://wid.wisc.edu/people/akhilesh-soni/">Akhilesh Soni</A> (co-advised with Jeff Linderoth), PhD 2023.
+Current position: Amazon.
 <LI> <A HREF="https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en">Rui Chen</A>, PhD 2021. Current position:
 Postdoc, Cornell Tech.
 <LI> <A HREF="https://www.etowle.com">Eli Towle</A>, PhD 2019. Current position: Optimization Support
@@ -288,6 +294,8 @@ Manager, Apple.
 
 <h3>Current Research Projects:</h3>
 <UL>
+<LI> "A Polyhedral Approach for Multi-Parametric Linear Programming", Air Force Office of Scientific Research, co-PI,
+with C.~Michini (PI), 7/2023 - 7/2026, \$587,381.
 <LI> "New Methods for Stochastic Integer Programming: Exploiting Connections to Machine Learning", Office of Naval Research, PI, 2/2021 - 1/2024, $453,124.
 <LI> "MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems",
 UW-Madison Principal Investigator, Department of Energy Office of Science, Advance Scientific Computing Research
@@ -321,16 +329,16 @@ Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investi
 <HR>
 <h3>Professional Service:</h3>
 <UL>
-<LI> Mathematical Optimization Society Council: 2018 - present.
-<LI> Guest editor, Mathematical Programming, Series B, 2020 - present.
+<LI> Mathematical Optimization Society Publications Committee: 2016 - present. Chair, 2019 - present.
+<LI> Mathematical Optimization Society Council: 2018 - 2022.
+<LI> Guest editor, Mathematical Programming, Series B, 2020 - 2022.
 <LI> SIAM Activity Group on Optimization, Secretary: 2017 - 2019. 
 <LI>INFORMS Nicholson Paper Prize Committee, 2013 - 2014, 2017.
-<LI> Mathematical Optimization Society Publications Committee: 2016 - present. Chair, 2019 - present.
 <LI> INFORMS Optimization Society Student Paper Prize Committee Chair: 2016.
 <LI> Committee on Stochastic Programming (elected board of Stochastic Programming Society): 2013 - 2019.
 <LI>	Secretary/Treasurer of INFORMS Optimization Society: 2011 – 2015.
-<LI> Associate editor, SIAM Journal on Optimization, 2016 – present.
 <LI> Associate editor, Mathematical Programming Computation, 2016 – present.
+<LI> Associate editor, SIAM Journal on Optimization, 2016 – 2022.
 <LI> Associate editor, INFORMS Journal on Computing, 2014 – 2018.
 <LI> Associate editor, Optimization Letters, 2013 – 2016.
 <LI> Associate editor, Journal of Optimization Theory and Applications, 2011 - 2016.
