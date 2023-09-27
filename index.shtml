@@ -75,12 +75,12 @@ HREF="http://www.optimization-online.org/DB_HTML/2018/12/6963.html">Preprint</A>
 HREF="https://doi.org/10.1007/s12532-020-00196-1">Minotaur: A Mixed-Integer Nonlinear Optimization Toolkit</A>,"
 <I>Mathematical Programming Computation</I>, 13:301-338 (2021) <A
 HREF="http://www.optimization-online.org/DB_FILE/2017/10/6275.pdf">Preprint</A>.
-<LI> R. Kannan and J. Luedtke, <A HREF="https://rdcu.be/cFDbT">A stochastic approximation method for chance-constrained nonlinear
+<LI> R. Kannan and J. Luedtke, "<A HREF="https://rdcu.be/cFDbT">A stochastic approximation method for chance-constrained nonlinear
 programs</A>," <I>Mathematical Programming Computation</I>, 13:705-751, (2021). <A HREF="http://www.optimization-online.org/DB_FILE/2018/12/6991.pdf">Preprint</A>.
-<LI> E. Towle and J. Luedtke, Intersection disjunctions for reverse convex
-sets," <I>Mathematics of Operations Research</I>, to appear (2021). <A HREF="https://arxiv.org/abs/1901.02112">Preprint</A>.
+<LI> E. Towle and J. Luedtke, "<A HREF="https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1132">Intersection disjunctions for reverse convex
+sets</A>," <I>Mathematics of Operations Research</I>, 47:297-319, (2021). <A HREF="https://arxiv.org/abs/1901.02112">Preprint</A>.
 <LI> A. Peña-Ordieres, J. Luedtke, and A. Waechter, "<A HREF="https://epubs.siam.org/doi/abs/10.1137/19M1261985">Solving chance-constrained problems via a smooth sample-based
-nonlinear approximation</A>," <I>SIAM Journal on Optimization</I>,30:2221-2250 (2020). <A
+nonlinear approximation</A>," <I>SIAM Journal on Optimization</I>, 30:2221-2250 (2020). <A
 HREF="https://arxiv.org/abs/1905.07377">Preprint</A>.
 <LI> A. Soni, J. Linderoth, J. Luedtke, and F. Rigterink, "<A HREF="https://rdcu.be/b5yvO">Mixed-integer linear programming for scheduling
 unconventional oil field development</A>," <I>Optimization and Engineering</I>, (2020). <A
@@ -92,8 +92,8 @@ and management</A>," <I>IISE Transactions</I>, 51:1303-1317 (2019) <A HREF="pape
 <LI> H. Ye, J. Luedtke, and H. Shen, "<A HREF="https://rdcu.be/TpsK">Call Center Arrivals: When to Jointly Forecast Multiple Streams?</A>," <I>
 Production and Operations Management</I>, 28:27-42 (2019).
 <LI> M. Bodur and J. Luedtke, “<A HREF="https://rdcu.be/9pqe">Two-stage linear decision rules for multi-stage stochastic
-programming,"</A> <I>Mathematical Programming</I> (2018). <A
-HREF="https://arxiv.org/abs/1701.04102">Preprint</A>.
+programming,"</A> <I>Mathematical Programming</I>, 191:347-380 (2022). <A
+HREF="https://arxiv.org/abs/1701.04102">Preprint (2018)</A>.
 <LI> E. Towle and J. Luedtke, "<A HREF="https://rdcu.be/YR6r">New solution approaches for the maximum-reliability stochastic network interdiction
 problem</A>," <I>Computational Management Science</I>, 15:455-477 (2018).  <A
 HREF="http://www.optimization-online.org/DB_HTML/2017/08/6166.html">Preprint</A>.
@@ -104,11 +104,11 @@ network design with equilibrium-driven demands</A>," <I>IISE Transactions</I>,
 programming formulations for minimum deficiency interval coloring"</A>, <I>Networks</I>, 72:249-271 (2018).
 <LI> A. Eberhard, N. Boland, J. Christiansen, B. Dandurand, J. Linderoth, J. Luedtke, and F. Oliveira, “<A HREF="papers/boland-etal-siopt-2018.pdf">Combining
 progressive hedging with a Frank-Wolfe method to compute Lagrangian dual bounds in stochastic mixed-integer
-programming</A>,” <I> SIAM Journal on Optimization </I>, 28:1312-1336 (2018) .
+programming</A>,” <I> SIAM Journal on Optimization</I>, 28:1312-1336 (2018) .
 <LI> C.H. Lim, J. Linderoth, and J. Luedtke, “<A HREF="papers/lim-linderoth-luedtke-Sep-Concave-MP17.pdf">Valid inequalities for separable concave constraints
-with indicator variables</A>,” <I>Mathematical Programming </I>, 172:415-442 (2018).  
+with indicator variables</A>,” <I>Mathematical Programming</I>, 172:415-442 (2018).  
 <LI> T. Dinh, R. Fukasawa, and J. Luedtke, “<A HREF="papers/dinh-fukasawa-luedtke-MP17.pdf">Exact
-algorithms for the chance-constrained vehicle routing problem</A>,” <I>Mathematical Programming </I>, 172:105-138 (2018).
+algorithms for the chance-constrained vehicle routing problem</A>,” <I>Mathematical Programming</I>, 172:105-138 (2018).
 <LI> M. Kilinc, J. Linderoth, and J. Luedtke, “<A HREF="http://rdcu.be/oMEh">Lift-and-Project Cuts for Convex Mixed Integer Nonlinear Programs
 Linear Programming Based Separation and Extended Formulations</A>,”  <I>Mathematical Programming Computation</I>,
 9:499-526 (2017). (<A HREF="http://www.optimization-online.org/DB_FILE/2010/11/2808.pdf">
