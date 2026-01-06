@@ -68,6 +68,10 @@ on Stochastic Programming</I>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
+<LI> R. Rossmann, J. Luedtke, and L. Roald, "<A HREF="https://doi.org/10.1016/j.ijepes.2025.111521">Investments in distribution grid resiliency: A stochastic programming
+model for dynamic microgrid design</A>", <I> International Journal of Electrical Power & Energy Systems</I>, vol.~174, 2026.
+<LI> N. Sereshti, M. Bodur, and J. Luedtke, "Stochastic dynamic lot-sizing with supplier-driven
+substitution and service level constraints", <I>Euoropean Journal of Operational Research</I>, accepted, 2026. <A HREF="https://ieeexplore.ieee.org/abstract/document/11180371">Preprint</A>
 <LI> R. Kannan, G. Bayraksan, and J. Luedtke, "<A HREF="https://pubsonline.informs.org/doi/10.1287/opre.2020.0533">Technical Note: Data-driven sample average approximation with covariate
 information</A>", <I>Operations Research</I>, articles in advance, 2025. <A HREF="http://www.optimization-online.org/DB_HTML/2020/07/7932.html">Preprint (2020)</A>.
 <LI> R. Rossmann, M. Anitescu, J. Bessac, M. Ferris, M. Krock, J.
@@ -208,6 +212,10 @@ uncertain demand forecasts: a chance-constrained optimization approach</A>,”
 <HR>
 <h3>Refereed Conference Papers:</h3>
 <OL reversed>
+<LI> N. Rhodes, J. Luedtke, and L. Roald, "<A
+HREF="https://ieeexplore.ieee.org/abstract/document/11180371">Second-order-cone formulations of power flow for topology
+optimization</A>",
+<I>2025 IEEE Kiel PowerTech</I>, Kiel, Germany (2025). <A HREF="https://arxiv.org/abs/2506.02234">Preprint</A>
 <LI> R. Chen and J. Luedtke, "Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables", Integer Programming and
 Combinatorial Optimization (IPCO) 2022, Eindhoven, The Netherlands (2022).  <A HREF="https://arxiv.org/abs/2111.07855">Preprint</A>
 <LI> A. Soni, J. Linderoth, J. Luedtke, and D. Pimentel-Alarcon, "<A HREF="https://opt-ml.org/papers/2021/paper9.pdf">Integer programming approaches to subspace
@@ -243,6 +251,10 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <HR>
 <h3>Submitted Papers and Technical Reports:</h3>
 <UL>
+<LI> V. Blanco, H. Kothari, and J. Luedtke, "A unified optimization framework for multiclass classification with
+structured hyperplane arrangements", 2025.
+<LI> W. Kim and J. Luedtke, "On integer programming for the binarized neural network verification problem", 2025.
+<LI> A. Peper, L. Albert, and J. Luedtke, "Scheduling security mitigations to delay adversary projects", 2025.
 <LI> H. Khothari and J. Luedtke, "<A HREF="https://arxiv.org/pdf/2411.09091">Accelerating Benders decomposition for solving
 a sequence of sample average approximation
 replications</A>" (2024).
@@ -250,8 +262,6 @@ replications</A>" (2024).
 under resource constraints," (2024).
 <LI> Z. Zhou, Y. Kim, J. Linderoth, J. Luedtke, and L. Matthews, "<A HREF="https://arxiv.org/abs/2407.10669">Probing-enhanced stochastic
 programming</A>" (2024).
-<LI>  N. Sereshti, M. Bodur, and J. Luedtke, "<A HREF="https://arxiv.org/abs/2301.00258">Stochastic dynamic lot-sizing with supplier-driven
-substitution and service level constraints</A>" (2022).
 <LI> J. Ramakrishnan and J. Luedtke, "<A HREF="https://arxiv.org/abs/1905.07377">A Dual Approximate Dynamic Programming
 Approach to Multi-stage Stochastic Unit Commitment</A>" (2018).
 <LI> A. Kogan, M. Lejeune, and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007/s10107-015-0960-8">Erratum to: Threshold Boolean form for joint probabilistic constraints with
@@ -289,6 +299,7 @@ Department of Industrial and Systems Engineering, Georgia Institute of Technolog
 Current PhD students
 <UL>
 <LI> Harshit Kothari
+<LI> Monica Rico (co-advised with Laura Albert)
 <LI> Yi Zhuang
 </UL>
 
@@ -319,7 +330,7 @@ Professor, Department of Industrial Engineering, Clemson University.
 </UL>
 Former PhD students (co-advisor)
 <UL>
-<LI> Ashley Peper, PhD 2025 (co-advised with Laura Albert). Current position: Assistnat Professor, University of
+<LI> Ashley Peper, PhD 2025 (co-advised with Laura Albert). Current position: Assistant Professor, University of
 Wisconsin-Stevens Point.
 <LI> <A HREF="https://wid.wisc.edu/people/akhilesh-soni/">Akhilesh Soni</A> (co-advised with Jeff Linderoth), PhD 2023.
 Current position: Amazon.
@@ -332,14 +343,18 @@ Leader, Qualcomm.
 
 <h3>Current Research Projects:</h3>
 <UL>
+<LI> "Computational Methods for Contextual Stochastic Integer Optimization", Office of Naval Research, PI, 
+12/2025 - 11/2028, $482,000. 
+<LI> "Balanced Graph Partitioning under Uncertainty", DEPSCoR, Air Force Office of Scientific Research, co-PI (site
+PI), with A. Buchanan (PI, Oklahoma State), 6/2025 - 6/2028, $299,000 (UW-Madison portion).
 <LI> "A Polyhedral Approach for Multi-Parametric Linear Programming", DEPSCoR, Air Force Office of Scientific Research, co-PI,
-with C.~Michini (PI), 7/2023 - 7/2026, \$587,381.
-<LI> "SaTC: CORE: Medium: An Optimization Framework for Identifying Dynamic Risk Management Practices", National Science
-Foundation (DMS - Secure & Trustworthy Cyberspace), co-PI, with L. Albert (PI),  10/1/2020 - 9/30/2024, $1,200,000. 
+with C.~Michini (PI), 7/2023 - 7/2026, $587,381.
 </UL>
 <HR>
 <h3>Completed Research Projects:</h3>
 <UL>
+<LI> "SaTC: CORE: Medium: An Optimization Framework for Identifying Dynamic Risk Management Practices", National Science
+Foundation (DMS - Secure & Trustworthy Cyberspace), co-PI, with L. Albert (PI),  10/1/2020 - 9/30/2024, $1,200,000. 
 <LI> "New Methods for Stochastic Integer Programming: Exploiting Connections to Machine Learning", Office of Naval Research, PI, 2/2021 - 1/2024, $453,124.
 <LI> "Integer Programming for Mixture Matrix Completion", co-PI, American Family Data Science Institute, with J. Linderoth (PI) and D. Pimentel-Alcaron,
  9/1/2020 - 8/31/2022, \$149,999.
@@ -367,7 +382,7 @@ Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investi
 <HR>
 <h3>Professional Service:</h3>
 <UL>
-<LI> Mathematical Optimization Society Publications Committee: 2016 - present. Chair, 2019 - present.
+<LI> Mathematical Optimization Society Publications Committee: 2016 - 2025. Chair, 2019 - 2025.
 <LI> Stocahstic Programming Society Student Paper Prize Committee (Chair): 2025.
 <LI> Mathematical Optimization Society Council: 2018 - 2022.
 <LI> Guest editor, Mathematical Programming, Series B, 2020 - 2022.
@@ -380,6 +395,8 @@ Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investi
 <LI> Committee on Stochastic Programming (elected board of Stochastic Programming Society): 2013 - 2019.
 <LI> Secretary/Treasurer of INFORMS Optimization Society: 2011 – 2015.
 <LI> Vice chair for optimization under uncertainty, INFORMS Optimization Society: 2022-2024.
+<LI> Area Editor, ``Computational Modeling and Applications", INFORMS Journal on Computing, 2026 – present.
+<LI> Associate editor, Mathematics of Operations Research, 2026 – present.
 <LI> Associate editor, Mathematical Programming Computation, 2016 – present.
 <LI> Associate editor, SIAM Journal on Optimization, 2016 – 2022.
 <LI> Associate editor, INFORMS Journal on Computing, 2014 – 2018.
