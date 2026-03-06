@@ -68,6 +68,8 @@ on Stochastic Programming</I>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
+<LI> V. Blanco, H. Kothari, and J. Luedtke, "A unified optimization framework for multiclass classification with
+structured hyperplane arrangements", <I> Computational Optimization and Applications </I>, accepted, 2026.
 <LI> R. Rossmann, J. Luedtke, and L. Roald, "<A HREF="https://doi.org/10.1016/j.ijepes.2025.111521">Investments in distribution grid resiliency: A stochastic programming
 model for dynamic microgrid design</A>", <I> International Journal of Electrical Power & Energy Systems</I>, vol.~174, 2026.
 <LI> N. Sereshti, M. Bodur, and J. Luedtke, "Stochastic dynamic lot-sizing with supplier-driven
@@ -251,8 +253,6 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <HR>
 <h3>Submitted Papers and Technical Reports:</h3>
 <UL>
-<LI> V. Blanco, H. Kothari, and J. Luedtke, "A unified optimization framework for multiclass classification with
-structured hyperplane arrangements", 2025.
 <LI> W. Kim and J. Luedtke, "On integer programming for the binarized neural network verification problem", 2025.
 <LI> A. Peper, L. Albert, and J. Luedtke, "Scheduling security mitigations to delay adversary projects", 2025.
 <LI> H. Khothari and J. Luedtke, "<A HREF="https://arxiv.org/pdf/2411.09091">Accelerating Benders decomposition for solving
