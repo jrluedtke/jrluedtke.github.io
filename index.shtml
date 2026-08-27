@@ -68,8 +68,10 @@ on Stochastic Programming</I>
 <HR>
 <h3>Journal Papers:</h3>
 <OL reversed>
+<LI> H. Khothari and J. Luedtke, "<A HREF="https://link.springer.com/article/10.1007/s12532-026-00324-3">Accelerating Benders decomposition for solving
+a sequence of sample average approximation replications</A>," <I> Mathematical Programming Computation </I>, 2026.
 <LI> V. Blanco, H. Kothari, and J. Luedtke, "<A HRE="https://rdcu.be/e8SXi">A unified optimization framework for multiclass classification with
-structured hyperplane arrangements</A>", <I> Computational Optimization and Applications </I>, accepted, 2026.
+structured hyperplane arrangements</A>", <I> Computational Optimization and Applications </I>,  2026.
 <LI> R. Rossmann, J. Luedtke, and L. Roald, "<A HREF="https://doi.org/10.1016/j.ijepes.2025.111521">Investments in distribution grid resiliency: A stochastic programming
 model for dynamic microgrid design</A>", <I> International Journal of Electrical Power & Energy Systems</I>, vol.~174, 2026.
 <LI> N. Sereshti, M. Bodur, and J. Luedtke, "Stochastic dynamic lot-sizing with supplier-driven
@@ -255,9 +257,6 @@ Optimization (IPCO) 2010, 271—284, Lausanne, Switzerland (2010).
 <UL>
 <LI> W. Kim and J. Luedtke, "On integer programming for the binarized neural network verification problem", 2025.
 <LI> A. Peper, L. Albert, and J. Luedtke, "Scheduling security mitigations to delay adversary projects", 2025.
-<LI> H. Khothari and J. Luedtke, "<A HREF="https://arxiv.org/pdf/2411.09091">Accelerating Benders decomposition for solving
-a sequence of sample average approximation
-replications</A>" (2024).
 <LI> A. Peper, L. Albert, and J. Luedtke, "Selecting and scheduling mitigations to protect critical infrastructure
 under resource constraints," (2024).
 <LI> Z. Zhou, Y. Kim, J. Linderoth, J. Luedtke, and L. Matthews, "<A HREF="https://arxiv.org/abs/2407.10669">Probing-enhanced stochastic
@@ -298,7 +297,6 @@ Department of Industrial and Systems Engineering, Georgia Institute of Technolog
 
 Current PhD students
 <UL>
-<LI> Harshit Kothari
 <LI> Monica Rico (co-advised with Laura Albert)
 <LI> Yi Zhuang
 </UL>
@@ -312,6 +310,7 @@ Former postdocs
 
 Former PhD students (primary advisor)
 <UL>
+<LI> Harshit Kothari, PhD 2026.
 <LI> Woojin Kim, PhD 2025. 
 <LI> Ramsey Rossmann, PhD 2025.
 <LI> <A HREF="https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en">Rui Chen</A>, PhD 2021. Current position:
@@ -344,40 +343,40 @@ Leader, Qualcomm.
 <h3>Current Research Projects:</h3>
 <UL>
 <LI> "Computational Methods for Contextual Stochastic Integer Optimization", Office of Naval Research, PI, 
-12/2025 - 11/2028, $482,000. 
+12/2025 - 11/2028. 
 <LI> "Balanced Graph Partitioning under Uncertainty", DEPSCoR, Air Force Office of Scientific Research, co-PI (site
-PI), with A. Buchanan (PI, Oklahoma State), 6/2025 - 6/2028, $299,000 (UW-Madison portion).
+PI), with A. Buchanan (PI, Oklahoma State), 6/2025 - 6/2028.
 <LI> "A Polyhedral Approach for Multi-Parametric Linear Programming", DEPSCoR, Air Force Office of Scientific Research, co-PI,
-with C.~Michini (PI), 7/2023 - 7/2026, $587,381.
+with C.~Michini (PI), 7/2023 - 7/2026.
 </UL>
 <HR>
 <h3>Completed Research Projects:</h3>
 <UL>
 <LI> "SaTC: CORE: Medium: An Optimization Framework for Identifying Dynamic Risk Management Practices", National Science
-Foundation (DMS - Secure & Trustworthy Cyberspace), co-PI, with L. Albert (PI),  10/1/2020 - 9/30/2024, $1,200,000. 
-<LI> "New Methods for Stochastic Integer Programming: Exploiting Connections to Machine Learning", Office of Naval Research, PI, 2/2021 - 1/2024, $453,124.
+Foundation (DMS - Secure & Trustworthy Cyberspace), co-PI, with L. Albert (PI),  10/1/2020 - 9/30/2024. 
+<LI> "New Methods for Stochastic Integer Programming: Exploiting Connections to Machine Learning", Office of Naval Research, PI, 2/2021 - 1/2024.
 <LI> "Integer Programming for Mixture Matrix Completion", co-PI, American Family Data Science Institute, with J. Linderoth (PI) and D. Pimentel-Alcaron,
- 9/1/2020 - 8/31/2022, \$149,999.
+ 9/1/2020 - 8/31/2022.
 <LI> "MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems",
 UW-Madison Principal Investigator, Department of Energy Office of Science, Advance Scientific Computing Research
 program. Subcontract through Argonne National Laboratory. With co-PI's M. Ferris, J. Linderoth, L. Roald, S. Wright,
-V. Zavala. 9/2017 - 8/2023, $600,000 per year (UW-Madison amount).
+V. Zavala. 9/2017 - 8/2023.
 <LI>	“Scalable Methods for Solving Stochastic Mixed-Integer Programs”, National Science Foundation, Principal
-Investigator, with co-PI’s J. Linderoth and S. Wright, 9/1/2016 – 8/31/2020, $399,563.
+Investigator, with co-PI’s J. Linderoth and S. Wright, 9/1/2016 – 8/31/2020.
 <LI> “Large-scale Stochastic Mixed-Integer Nonlinear Programming," ExxonMobil Upstream Research Corporation, co-Principal Investigator with J. Linderoth (PI) and S. Wright (co-PI). 12/2010 – 12/2019.  
 <LI>	“SBE: Small: An Optimization Framework for Prioritizing Cyber-security Mitigations for Securing Information
 Technology Infrastructure,” National Science Foundation, (SES-Division of Social and Economic Sciences), co-PI with L.
-Albert (PI), 8/2014 – 7/2019, $447,828. 
-<LI> “Multifaceted Mathematics Center for Complex Energy Systems" Department of Energy Office of Science, Advance Scientific Computing Research program. Subcontract through Argonne National Laboratory. With M. Ferris (PI), and co-PI's C. Demarco, B. Lesieutre, J. Linderoth, S. Wright. 9/2012 - 8/2017, $750,000 per year.<LI>	“Strengthened Benders Cuts for Stochastic Integer Programs with Continuous Recourse”, Office of Naval Research, Principal Investigator, 5/1/2015 – 4/30/2017, $90,002.
-<LI>	“Collaborative Research: Staffing and Routing in Service Systems with Uncertain Arrival Rates: An Integrated Stochastic Programming and Asymptotic Analysis Approach," Principal Investigator in collaboration with T. Tezcan (Simon School of Business, University of Rochester), National Science Foundation (CMMI-SES), 10/2011 - 9/2014, $206,141 (UW portion).
-<LI> “CAREER: Risk Management via Stochastic Programming: Models, Computation, and Applications," National Science Foundation (CMMI-OR), Principal Investigator, 2/2010 - 1/2015, $400,000.
-<LI> “MINOTAUR: A New Toolkit for Solving Mixed-Integer and Nonlinear Optimization Problems,” Department of Energy (funded via Argonne National Lab subcontract), co-Principal Investigator with J. Linderoth (PI), 10/2011 - 9/2013, $175,878.
-<LI>	“A Stochastic and Integer Programming Approach to Service Systems Scheduling Under Arrival Rate Uncertainty," University of Wisconsin-Madison Graduate School Research Committee, Principal Investigator, 9/2011 – 8/2012, $34,382.
+Albert (PI), 8/2014 – 7/2019. 
+<LI> “Multifaceted Mathematics Center for Complex Energy Systems" Department of Energy Office of Science, Advance Scientific Computing Research program. Subcontract through Argonne National Laboratory. With M. Ferris (PI), and co-PI's C. Demarco, B. Lesieutre, J. Linderoth, S. Wright. 9/2012 - 8/2017, $750,000 per year.<LI>	“Strengthened Benders Cuts for Stochastic Integer Programs with Continuous Recourse”, Office of Naval Research, Principal Investigator, 5/1/2015 – 4/30/2017.
+<LI>	“Collaborative Research: Staffing and Routing in Service Systems with Uncertain Arrival Rates: An Integrated Stochastic Programming and Asymptotic Analysis Approach," Principal Investigator in collaboration with T. Tezcan (Simon School of Business, University of Rochester), National Science Foundation (CMMI-SES), 10/2011 - 9/2014.
+<LI> “CAREER: Risk Management via Stochastic Programming: Models, Computation, and Applications," National Science Foundation (CMMI-OR), Principal Investigator, 2/2010 - 1/2015.
+<LI> “MINOTAUR: A New Toolkit for Solving Mixed-Integer and Nonlinear Optimization Problems,” Department of Energy (funded via Argonne National Lab subcontract), co-Principal Investigator with J. Linderoth (PI), 10/2011 - 9/2013.
+<LI>	“A Stochastic and Integer Programming Approach to Service Systems Scheduling Under Arrival Rate Uncertainty," University of Wisconsin-Madison Graduate School Research Committee, Principal Investigator, 9/2011 – 8/2012.
 <LI> “Collaborative Research: Next-Generation Solvers for Mixed-Integer Nonlinear Programs: Structure, Search and
-Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investigator with J. Linderoth (PI), $528,476,
+Implementation,'' Department of Energy (DE-PS02-08ER08-13), co-Principal Investigator with J. Linderoth (PI),
 8/08 - 8/12. 
-<LI>“Collaborative Research: Next-Generation Solvers for Mixed-Integer Nonlinear Programs: Structure, Search and Implementation,'' National Science Foundation (CCF-0830153), co-Principal Investigator with J. Linderoth (PI), $199,997, 1/09 - 1/13.
-<LI> “Warehouse Management for Hy-Vee Flow Through System,” Hy-Vee, Inc., co-Principal Investigator with R. Veeramani (PI), 5/2008 – 4/2009, $84,948.
+<LI>“Collaborative Research: Next-Generation Solvers for Mixed-Integer Nonlinear Programs: Structure, Search and Implementation,'' National Science Foundation (CCF-0830153), co-Principal Investigator with J. Linderoth (PI), 1/09 - 1/13.
+<LI> “Warehouse Management for Hy-Vee Flow Through System,” Hy-Vee, Inc., co-Principal Investigator with R. Veeramani (PI), 5/2008 – 4/2009.
 </UL>
 <HR>
 <h3>Professional Service:</h3>
